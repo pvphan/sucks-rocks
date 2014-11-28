@@ -13,13 +13,17 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
-
+gem 'rubygems'
 gem 'rbing'
+
 gem 'searchbing'
-gem 'solr-ruby'
-gem 'sunspot_rails'
-gem 'sunspot_solr'
-gem 'sphinx'
+
+gem 'duck-duck-go'
+
+# gem 'solr-ruby'
+# gem 'sunspot_rails'
+# gem 'sunspot_solr'
+# gem 'sphinx'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
